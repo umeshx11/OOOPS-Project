@@ -1,0 +1,1 @@
+Java classes matching database tables.
